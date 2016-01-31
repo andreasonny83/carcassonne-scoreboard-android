@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="carcassonneBlue">#1F62B0</color>
+    <color name="carcassonneBlueDark">#194e8c</color>
+    <color name="carcassonneYellow">#FCCD25</color>
+    <color name="carcassonneYellowLight">#fad964</color>
+    <color name="carcassonneYellowDark">#c19d1c</color>
+    <color name="carcassonneRed">#EA4646</color>
 </resources>
