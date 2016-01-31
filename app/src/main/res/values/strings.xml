@@ -9,6 +9,33 @@
     <string name="join_game">Join Game</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="policy">Policy</string>
+    <string name="privacy_policy_title_1">Cookies</string>
+    <string name="privacy_policy_title_2">Measuring our visitors</string>
+    <string name="privacy_policy_title_3">Facebook, Twitter and other social networks</string>
+    <string name="privacy_policy_title_4">Updates to this policy</string>
+    <string name="privacy_policy_title_5">Any questions?</string>
+    <string name="privacy_policy_content_1">
+        Some of our web pages utilise "cookies". A "cookie" is a small text file that may be used, for example, to collect information about web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+        We collect anonymous statistics about your visit, like which of our pages you viewed.
+        Some cookies are necessary for the operation of our website, if you choose to block them some aspects of the site may not work for you. Non necessary cookies are only set when you have given your explicit consent to their use. Such cookies included those set by our statistics package Google Analytics.
+    </string>
+    <string name="privacy_policy_content_2">
+        We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site.
+        The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
+        You can learn more about Google Analytics or opt out if you wish.
+    </string>
+    <string name="privacy_policy_content_3">
+        These services provide social buttons and similar features which we might use on our website – such as the “Like” and “Tweet” buttons.
+        To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
+        Social networks therefore could know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
+    </string>
+    <string name="privacy_policy_content_4">
+        We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email.
+    </string>
+    <string name="privacy_policy_content_5">
+        If you have any questions about this privacy policy or your personal data, please write to us by email to andreasonny83@gmail.com.
+    </string>
     <string name="settings">Settings</string>
     <string name="app_logo">carcassonne app logo</string>
+    <string name="title_activity_privacy">PrivacyActivity</string>
 </resources>
